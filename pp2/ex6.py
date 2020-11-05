@@ -1,0 +1,5 @@
+n = float(input())
+nalog = float(n*12/100)
+chaevie = float(n*18/100)
+answer = "{:.2f}".format(n+nalog+chaevie)
+print(answer)

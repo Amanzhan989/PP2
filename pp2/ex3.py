@@ -1,0 +1,5 @@
+a,b = input().split()
+print("Please enter lenght and width in metres")
+a = float(a)
+b = float(b)
+print("There area is",a*b,"m**2") 

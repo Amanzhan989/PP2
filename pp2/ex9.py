@@ -1,0 +1,7 @@
+n = int(input())
+d1 = float(n*4/100+n)
+d2 = float(d1*4/100+d1)
+d3 = float(d2*4/100+d2)
+print("The saving after 1 year is","{:.2f}".format(d1))
+print("The saving after 2 year is","{:.2f}".format(d2))
+print("The saving after 3 year is","{:.2f}".format(d3))

@@ -1,0 +1,7 @@
+print("enter hour")
+h = int(input())
+print("enter minute")
+m = int(input())
+print("enter second")
+s = int(input())
+print(h*3600+m*60+s)
