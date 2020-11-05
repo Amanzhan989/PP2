@@ -1,2 +1,2 @@
 # PP2
-Programming priciples 2
+Programming principles 2
